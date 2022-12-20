@@ -1,0 +1,47 @@
+[
+	{
+		"id": 1,
+		"title": "Heladera",
+		"description": "Electrodomenstico",
+		"price": 75000,
+		"thumbnail": "./imagenes/heladera.jpg",
+		"code": "8abc71",
+		"stock": 10
+	},
+	{
+		"id": 2,
+		"title": "Microondas",
+		"description": "Electrodomenstico",
+		"price": 35000,
+		"thumbnail": "./imagenes/microondas.jpg",
+		"code": "7cba65",
+		"stock": 18
+	},
+	{
+		"id": 3,
+		"title": "Pava Electrica",
+		"description": "Electrodomenstico",
+		"price": 7000,
+		"thumbnail": "./imagenes/pavaelectrica.jpg",
+		"code": "8deb66",
+		"stock": 100
+	},
+	{
+		"id": 4,
+		"title": "Reloj",
+		"description": "Electrodomenstico",
+		"price": 11000,
+		"thumbnail": "./imagenes/reloj.jpg",
+		"code": "9efc67",
+		"stock": 7
+	},
+	{
+		"id": 5,
+		"title": "Horno Electrico",
+		"description": "Electrodomenstico",
+		"price": 100000,
+		"thumbnail": "./imagenes/hornoelectrico.jpg",
+		"code": "1fgd68",
+		"stock": 12
+	}
+]
